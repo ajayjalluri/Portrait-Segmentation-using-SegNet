@@ -1,1 +1,1 @@
-# Backgroung-removal-using-U-net-and-image-matting
+# Backgroung-removal-using-U-net-and-image-mattin
