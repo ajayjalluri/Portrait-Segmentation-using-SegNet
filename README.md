@@ -1,7 +1,8 @@
 # Portrait-Segmentation using U-Net
 
 **Portrait segmentation** refers to the process of segmenting a person in an image from its background.
-Here we use the concept of **semantic segmentation** to predict the label of every pixel in an image.Here we limit ourselves to **binary classes** (person or background) and use only plain **portrait-selfie** images for matting. 
+Here we use the concept of **semantic segmentation** to predict the label of every pixel in an image. Here we limit ourselves to **binary classes** (person or background) and use only plain **portrait-selfie** images for matting. 
+
 This technique is widely used in computer vision applications like **background replacement and background blurring** on mobile devices.
 
 
