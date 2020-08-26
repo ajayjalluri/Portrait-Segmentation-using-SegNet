@@ -1,4 +1,4 @@
-# Backgroung-removal-using-U-net-and-image-matting
+# Portrait-Segmentation using U-Net
 
 ## References
 
