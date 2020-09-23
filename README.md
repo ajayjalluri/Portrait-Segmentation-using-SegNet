@@ -10,8 +10,8 @@ https://www.kaggle.com/laurentmih/aisegmentcom-matting-human-datasets)
 
 
 ## INPUT AND OUTPUT
-![alt text](https://github.com/ajayjalluri/Portrait-Segmentation-using-U-Net/blob/master/input.jpeg)
-![alt text](https://github.com/ajayjalluri/Portrait-Segmentation-using-U-Net/blob/master/tb1.png)
+![alt text](https://github.com/ajayjalluri/Portrait-Segmentation-using-SegNet/blob/master/Images/bill_input.jpeg)
+![alt text](https://github.com/ajayjalluri/Portrait-Segmentation-using-SegNet/blob/master/Images/bill_output.png)
 
 
 
