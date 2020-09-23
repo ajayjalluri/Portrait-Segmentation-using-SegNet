@@ -9,8 +9,9 @@ This technique is widely used in computer vision applications like **background 
 https://www.kaggle.com/laurentmih/aisegmentcom-matting-human-datasets)
 
 
-## INPUT AND OUTPUT
+## INPUT (256 * 256 * 3)
 ![alt text](https://github.com/ajayjalluri/Portrait-Segmentation-using-SegNet/blob/master/Images/bill_input.jpeg)
+## OUTPUT
 ![alt text](https://github.com/ajayjalluri/Portrait-Segmentation-using-SegNet/blob/master/Images/bill_output.png)
 
 
