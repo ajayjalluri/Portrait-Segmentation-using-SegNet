@@ -18,7 +18,8 @@ https://www.kaggle.com/laurentmih/aisegmentcom-matting-human-datasets)
 ### FOREGROUND IMAGE
 ![alt text](https://github.com/ajayjalluri/Portrait-Segmentation-using-SegNet/blob/master/Images/bill_OUTPUT_b.jpeg)
 
-
+## PORTERDUFF AND GAUSSIAN_BLUR
+![alt text](https://github.com/ajayjalluri/Portrait-Segmentation-using-SegNet/blob/master/Images/bill_final3.jpeg)
 
 ## References
 
