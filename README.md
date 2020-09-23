@@ -9,13 +9,13 @@ This technique is widely used in computer vision applications like **background 
 https://www.kaggle.com/laurentmih/aisegmentcom-matting-human-datasets)
 
 
-## INPUT (256 * 256 * 3)
+### INPUT (256 * 256 * 3)
 ![alt text](https://github.com/ajayjalluri/Portrait-Segmentation-using-SegNet/blob/master/Images/bill_input.jpeg)
 
-## PREDICTED MASK (256 * 256 * 1) - OUTPUT OF THE TRAINED SEGENT MODEL
+### PREDICTED MASK (256 * 256 * 1) - OUTPUT OF THE TRAINED SEGENT MODEL
 ![alt text](https://github.com/ajayjalluri/Portrait-Segmentation-using-SegNet/blob/master/Images/bill_mask.jpeg)
 
-## FOREGROUND IMAGE
+### FOREGROUND IMAGE
 ![alt text](https://github.com/ajayjalluri/Portrait-Segmentation-using-SegNet/blob/master/Images/bill_output.png)
 
 
