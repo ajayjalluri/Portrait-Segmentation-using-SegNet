@@ -9,6 +9,8 @@ This technique is widely used in computer vision applications like **background 
 https://www.kaggle.com/laurentmih/aisegmentcom-matting-human-datasets)
 
 
+# INPUT AND OUTPUT
+![alt text](https://miro.medium.com/max/3894/1*7-uUtIVoFPeoJAz8aQCopA.png)
 
 
 
