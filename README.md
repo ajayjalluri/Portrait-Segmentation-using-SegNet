@@ -9,7 +9,7 @@ This technique is widely used in computer vision applications like **background 
 https://www.kaggle.com/laurentmih/aisegmentcom-matting-human-datasets)
 
 
-# INPUT AND OUTPUT
+## INPUT AND OUTPUT
 ![alt text](https://github.com/ajayjalluri/Portrait-Segmentation-using-U-Net/blob/master/input.jpeg)
 ![alt text](https://github.com/ajayjalluri/Portrait-Segmentation-using-U-Net/blob/master/tb1.png)
 
