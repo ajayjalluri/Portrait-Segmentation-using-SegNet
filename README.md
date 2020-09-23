@@ -6,7 +6,7 @@ Here we use the concept of **semantic segmentation** to predict the label of eve
 This technique is widely used in computer vision applications like **background replacement and background blurring** on mobile devices.
 
 # DataSet
--https://www.kaggle.com/laurentmih/aisegmentcom-matting-human-datasets)
+https://www.kaggle.com/laurentmih/aisegmentcom-matting-human-datasets)
 
 
 
