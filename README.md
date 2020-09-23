@@ -16,7 +16,7 @@ https://www.kaggle.com/laurentmih/aisegmentcom-matting-human-datasets)
 ![alt text](https://github.com/ajayjalluri/Portrait-Segmentation-using-SegNet/blob/master/Images/bill_mask.jpeg)
 
 ### FOREGROUND IMAGE
-![alt text](https://github.com/ajayjalluri/Portrait-Segmentation-using-SegNet/blob/master/Images/bill_output.png)
+![alt text](https://github.com/ajayjalluri/Portrait-Segmentation-using-SegNet/blob/master/Images/bill_OUTPUT_b.jpeg)
 
 
 
